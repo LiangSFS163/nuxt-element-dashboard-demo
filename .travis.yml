@@ -7,7 +7,7 @@ node_js:
 git:
   depth: 3
 env:
-- API_SERVER=https://easy-mock.com/mock/5bbefdf6faedce31cd6a5261 PUBLIC_PATH=https://liangsfs163.github.io/nuxt-element-dashboard-demo/
+- API_SERVER=https://easy-mock.com/mock/5d54f55db802294dc3f888f5 PUBLIC_PATH=https://liangsfs163.github.io/nuxt-element-dashboard-demo/
 install:
 - yarn --frozen-lockfile
 script:
