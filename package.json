@@ -25,6 +25,7 @@
     "build": "cross-env MODE=prod nuxt build",
     "test": "jest",
     "start": "cross-env HOST=0.0.0.0 PORT=3333 MODE=prod nuxt start",
+    "generate": "cross-env MODE=prod nuxt generate",
     "stdver": "standard-version -m '[skip ci] chore(release): v%s'",
     "release": "gren release --override"
   },
